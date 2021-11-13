@@ -1,0 +1,226 @@
+.left-box2 {
+	/* margin-top: 30px 30px 30px 30px; */
+	/* margin-left: x; */
+	border: 1px solid #fff;
+	width: 100%;
+	background-color: #fff;
+	height: 280px;
+	text-align: start;
+	box-shadow: 5px #dadbdc;
+	border-radius: 4px;
+}
+.left-box1 {
+	height: 100px;
+}
+.left-box2 {
+	/* height: 500px; */
+}
+.left-box div,
+.left-box1 div,
+.left-box2 form {
+	background-color: #fff;
+}
+.left-box2 input,
+.left-box2 span,
+.left-box2 select,
+.left-box2 div {
+	background-color: #fff;
+}
+.left-box div li {
+	background-color: #fff;
+}
+.red {
+	margin-left: 3%;
+	color: #fff;
+	width: 100%;
+	background-color: #d0011b;
+	padding: 0 1%;
+	margin-top: 3%;
+}
+.space {
+	margin-bottom: 1%;
+	margin-left: 3%;
+}
+.read {
+	margin-left: 3%;
+	color: #666666;
+	font-size: 13px;
+	line-height: 17.29px;
+	letter-spacing: normal;
+	font-weight: bold;
+	margin-bottom: 2%;
+}
+.dot {
+	height: 5px;
+	width: 5px;
+	background-color: #666666;
+	border-radius: 50%;
+	display: inline-block;
+	margin-right: 1%;
+}
+.ul {
+	margin-left: 3%;
+}
+.line {
+	text-decoration: underline;
+}
+.list {
+	background-color: #fff;
+	font-size: 13px;
+	line-height: 17.29px;
+	letter-spacing: normal;
+	color: #666666;
+}
+.shield {
+	/* margin-left: 30px; */
+	border: 1px solid #666666;
+	margin-top: 40px;
+	border-radius: 5px;
+}
+.get {
+	/* margin-top: 10px; */
+	font-size: 17px;
+	line-height: 22.61px;
+	letter-spacing: normal;
+	color: #333333;
+	/* padding-top: 8%; */
+	font-weight: bold;
+	/* border: 2px solid black; */
+}
+.worries {
+	font-size: 14px;
+	line-height: 16.8px;
+	letter-spacing: normal;
+	color: #8e93ab;
+	padding: 1%;
+	font-weight: 500;
+}
+.namespan {
+	color: red;
+	font-size: 10px;
+	margin-left: 200px;
+	margin-bottom: 15px;
+}
+.emailspan {
+	color: red;
+	font-size: 10px;
+	margin-left: 170px;
+}
+.mobilespan {
+	color: red;
+	font-size: 10px;
+	margin-left: 150px;
+	margin-bottom: 15px;
+}
+
+.check {
+	color: #333333;
+	background-color: #f5f5f5 !important;
+	padding: 2%;
+}
+.adult {
+	color: #777777;
+	font-size: 14px;
+	line-height: 18px;
+	padding: 0 3%;
+	background-color: #f5f5f5 !important;
+}
+.title {
+	font-size: 14px;
+	line-height: 20px;
+	color: #555555;
+	border: 1px solid #777777;
+	border-radius: 2px;
+	margin-right: 5px;
+	padding: 0.7%;
+	cursor: pointer;
+}
+.name {
+	color: #555555;
+	border: 1px solid #777777;
+	border-radius: 2px;
+	width: 150px;
+	padding: 1%;
+	margin-right: 2px;
+}
+.white {
+	background-color: #fff !important;
+}
+.ticket {
+	font-size: 12px;
+	line-height: 16px;
+	color: #8e93ab;
+	letter-spacing: normal;
+	margin-left: 10px;
+}
+.email {
+	margin-left: 10px;
+}
+input:focus {
+	outline: none;
+}
+.submit {
+	/* margin-top: 5px; */
+	float: right;
+	margin-right: 10px;
+	background-color: #f37638;
+	padding: 1%;
+	width: 150px;
+	color: #fff;
+	border-radius: 5px;
+	border: none;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.right-box {
+	float: right;
+	width: 25%;
+	margin-right: 100px;
+	/* margin-top: 30px;
+  margin-left: 100px; */
+	margin: 30px 100px;
+	border: 1px solid #ccc;
+	background-color: #fff;
+	height: 250px;
+	text-align: start;
+	box-shadow: 5px #dadbdc;
+	border-radius: 4px;
+}
+
+.remove {
+	float: right;
+	margin-right: 30px;
+	font-size: 12px;
+	line-height: 16px;
+	color: #2d67b2;
+}
+
+.checkbox {
+	margin: 15px;
+	float: left;
+	height: 50px;
+	width: 15px;
+	height: 15px;
+}
+.label {
+	font-size: 17px;
+	line-height: 23px;
+	color: #333333;
+}
+.inr {
+	font-size: 12px;
+	line-height: 16px;
+	color: #777777;
+	font-weight: 550;
+}
+.last {
+	font-size: 12px;
+	line-height: 16px;
+	color: #333333;
+}
+#fix {
+	/* margin-left: 250px; */
+	background-color: #f1e1e1;
+	/* margin: 10px; */
+}

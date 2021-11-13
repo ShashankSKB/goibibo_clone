@@ -1,0 +1,139 @@
+.ApnaApp {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* height: 50vh; */
+}
+
+/* .ApnaApp :nth-child(1):nth-child(1){
+    color: hotpink;
+} */
+
+.slider{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  width: 87%;
+  /* width: 320px; */
+  box-shadow:  0 1px 6px rgb(31 31 31 / 12%), 0 1px 4px rgb(31 31 31 / 12%);
+    cursor: pointer;
+    flex-direction: column;
+    text-align: center;
+
+
+}
+
+
+
+
+
+.slider > img{
+    /* width: 320px; */
+    width: 100%;
+    height: 150px;
+}
+
+.slider >:nth-child(2){
+    /* font-size: 15px; */
+    padding: 10px;
+    margin-left: -70px;
+    flex-wrap: wrap;
+    font-weight: 400;
+    position: relative;
+    /* left: 250px; */
+    word-wrap: break-word;
+    
+
+}
+.slider >:nth-child(3){
+    font-size: 12px;
+    /* font-size: 5px; */
+    /* margin-left: -180px; */
+    font-weight: 400;
+    flex-wrap: wrap;
+    position:relative;
+    right: 70px;
+    color: gray;
+
+}
+.slider >:nth-child(4){
+    font-size: 28px;
+    position: absolute;
+    top: 190px;
+    left: 310px;
+    font-weight: 400;
+
+}
+
+
+.desc {
+    /* color: red; */
+    /* word-break: break-all; */
+
+    flex-wrap:wrap;
+    font-size: 15px !important;
+    
+    /* margin-left: 50px; */
+    margin-left: -20px !important;
+    text-align: center;
+
+}
+/* .car>:nth-child(1)>:nth-child(2){
+    font-size: 10px;
+    color: green;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+/************************* Carousel 2  PRoduct One *************************/
+.slider2{
+    /* display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 250px; */
+  width: 320px;
+    cursor: pointer;
+  /* box-shadow:  0 1px 6px rgb(31 31 31 / 12%), 0 1px 4px rgb(31 31 31 / 12%); */
+
+    /* flex-direction: column;  */
+
+
+}
+.slider2 > img{
+  /* width: 320px; */
+  width: 100%;
+    height: 150px;
+    border-radius: 10px;
+  box-shadow:  0 1px 6px rgb(31 31 31 / 12%), 0 1px 4px rgb(31 31 31 / 12%);
+
+}
+
+.slider2 :hover{
+/* .slider2 ::after{ */
+
+    /* transform: scaleY(50px); */
+    /* transform: scaleX(50px); */
+    /* height: 200px;
+    width:120% ; */
+    border-radius: 10px;
+	/* transition: transform 0.5s; */
+	transform: translateY(-10%);
+
+
+
+
+}
+
+
+

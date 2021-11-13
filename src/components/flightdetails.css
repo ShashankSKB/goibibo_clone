@@ -1,0 +1,249 @@
+
+
+.details_flight{
+    display: flex;
+    flex-direction: column;
+   
+   background: rgb(225, 231, 238);
+
+}
+
+.particular_flight{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    height: 125px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+
+.particular_flight >div{
+ margin: 10px;
+
+}
+
+.curr_flight >div{
+    margin-bottom: 5px;
+}
+.curr_flight_time{
+    font-size: 1.5rem;
+    font-family: Quicksand;
+    font-weight: bold;
+    color: rgb(51, 51, 51);
+}
+
+.curr_flight >div>img{
+
+    width: 15px;
+}
+
+.particular_flight button{
+    background-color: rgb(255, 109, 56);
+    border: none;
+    width: 100px;
+    height: 30px;
+    justify-content: center;
+    margin: 20px;
+
+}
+
+.body{
+    display: flex;
+    margin: 0% 0%;
+    text-align: left;
+    padding: 20px;
+    background-color: rgb(225, 231, 238);
+   
+}
+
+
+
+.body>div:nth-child(1)
+{
+    width: 21%;
+    border: 2px solid whitesmoke;
+    margin: 10px 20px;
+    padding: 10px 30px;
+    background-color: white;
+    border-radius: 8px;
+}
+.body>div:nth-child(2)
+{
+    width: 75%;
+    margin: 10px;
+    border-radius: 8px;
+
+
+}
+
+.departures{
+    display: flex;
+    justify-content: space-around;
+    
+   
+}
+
+.departures>div{
+    width: 100px;
+    
+    margin: 5px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: black;
+    background-color: rgb(225, 231, 238);
+}
+
+.input_data{
+    background-color: rgb(34, 116, 224);
+
+    padding: 10px;
+    font-size:1.0rem;
+    
+    font-family: Quicksand;
+    font-weight: 400;
+    color: white;
+
+
+}
+
+
+.form_input2{
+    
+    display:flex ;
+    justify-content: center;
+    margin: 10px 50px;
+    border-radius: 10px;
+    color: white;
+    border: 1px solid black;
+    
+  
+
+}
+.form_input2>div{
+    background-color: rgb(25, 88, 182);
+    border-right: 1px solid black;
+    outline: none;
+    margin-right: 15px;
+    border-radius: 5px;
+    border: none;
+}
+
+.form_input2  input{
+   
+    width: 15%;
+    height: 30px;
+    border:none;
+    outline: none;
+    padding: 10px 20px;
+    margin: 0px 10px;
+    border-radius: 5px;
+    background-color: rgb(25, 88, 182);
+    
+    
+}
+::placeholder{
+    color: black;
+}
+
+
+.form_input2>input:nth-child(6)
+{
+    background-color: orange ;
+    width: 7%;
+    height: 75px;
+    margin: 0px 10px;
+    border-radius: 8px;
+    border:none;
+   
+
+}
+
+.form_input2>input:nth-child(1)
+{
+   
+    border-top: none;
+    border:none;
+    border-right: 1px solid black;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+
+.form_input2>input:nth-child(6)
+  {
+      background-color: white !important;
+      width: 12%;
+      height: 50px;
+      margin: 0px 10px;
+      border-radius: 8px;
+      border:none;
+      color: blue;
+
+  }
+
+  
+
+  .swapbutton{
+    position: absolute;
+    top: 50px;
+    left: 265px;
+    
+}
+
+.swapbutton >button{
+  border-radius: 50%;
+  
+}
+
+.swapbutton >button >img{
+    width: 10px;
+    height: 10px;
+    
+}
+
+
+.topHeading{
+    color: grey;
+}
+
+
+.checkbox_color >input{
+    border: 2 px solid rgb(0, 105, 226);
+    margin-right: 10px;
+
+}
+
+.checkbox_color >img{
+    width: 15px;
+    margin-right: 2px;
+}
+
+.inputbox{
+  
+
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.inputbox>div{
+    width: 15%;
+    
+    text-align: left;
+    margin: 3px 30px;
+   
+}
+
+
+.fare{
+display: flex;
+justify-content: left;
+margin: 0px 55px;
+font-size: 13px;
+}
+
+.fare>input{
+    margin: 0px 8px;
+}
+    

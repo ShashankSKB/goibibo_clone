@@ -1,0 +1,133 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+:root {
+	--regularwhite: #ffffff;
+	--backwhite: #eff3f8;
+	--blue: #2276e3;
+	--darkblue: #2072dc;
+	--liteOrange: #f37638;
+	--darkOrange: #dc4500;
+	--bluefont: #008cff;
+	--heading: #333333;
+	--subheading: #46484d;
+	--litetext: #4f525a;
+}
+
+#main {
+	border: 1px solid rgb(36, 33, 33);
+	height: 445px;
+	width: 400px;
+	border-radius: 12px;
+	margin: 130px 10px 10px 720px;
+	margin-bottom: 90px;
+}
+
+#inp {
+	width: 180px;
+	background: #fff;
+	width: 100%;
+	border: 0;
+	outline: 0;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: quicksand, Arial, sans-serif;
+	color: #4f525a;
+	padding-left: 5 px;
+	border-radius: 0 4 px 4 px 0;
+}
+#fix img {
+	height: 390px;
+	position: absolute;
+	margin: -426px 10px 10px 407px;
+	border: 1px solid black;
+	border-radius: 12px 0px 12px 12px;
+}
+#but1 {
+	background: transparent;
+	border: none;
+	font-size: x-large;
+	/* font-weight: bold; */
+	margin: 17px 0px 0px 348px;
+	color: #cecece;
+}
+#text {
+	font-size: 22px;
+	color: #000;
+	font-weight: 700;
+	font-family: QuickSand, Arial, sans-serif;
+	margin-left: 28px;
+}
+#fieldset {
+	border: solid;
+	color: #016eff;
+	/* border-radius: 1em; */
+	margin: 2em 1em 1em;
+	padding: 0 1em 1em;
+	border-radius: 5px;
+}
+
+#legend {
+	transform: translatey(-50%);
+	width: max-content;
+	background: white;
+	padding: 0 0.15em;
+	font-size: 13px;
+}
+#fix {
+	display: flex;
+}
+#font_col {
+	color: #c2c2c2;
+	padding-left: 7px;
+}
+#btn2 {
+	width: 366px;
+	margin-left: 18px;
+	height: 45px;
+	border-radius: 5px;
+	background: var(--liteOrange);
+
+	vertical-align: baseline !important;
+	height: 44px;
+	padding: 13px 118px 13px 116px;
+	margin-top: 22px;
+	border-radius: 8px;
+	background-color: #ff6d38;
+	color: #fff;
+	outline: 0;
+	border: 0;
+	cursor: pointer;
+	font-size: 14px;
+	font-weight: 700;
+	font-family: quicksand, Arial, sans-serif;
+}
+#ab {
+	position: absolute;
+}
+#gr {
+	/* padding: 5px; */
+	font: 400 13px/1.231 "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #46484d;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	-webkit-tap-highlight-color: transparent;
+	box-sizing: border-box;
+	vertical-align: baseline !important;
+	-webkit-font-smoothing: antialiased;
+	/* padding: 0; */
+	margin: 45px 0 0 15px;
+	list-style: none;
+	line-height: 18px !important;
+	font-size: 12px;
+}
+#gr a {
+	color: #016eff;
+}
+#worning {
+	color: red;
+	font-size: 12px;
+	margin-left: 17px;
+	position: absolute;
+}

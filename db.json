@@ -1,0 +1,93 @@
+{
+  "flights_details": [
+    {
+      "id": 1,
+      "img": "https://play-lh.googleusercontent.com/OhZSLjRDLvFLqtDp9bIgcvAweZIg5V5uIMI_7kOaS-9nPR043DUfoibkn1BgwG7Ai1U",
+      "company": "air-india",
+      "from": "pune",
+      "to": "bangalore",
+      "duration": "4h55m",
+      "price": 2345,
+      "fromTime": 14,
+      "toTime": "23:55"
+    },
+    {
+      "id": 2,
+      "img": "https://play-lh.googleusercontent.com/OhZSLjRDLvFLqtDp9bIgcvAweZIg5V5uIMI_7kOaS-9nPR043DUfoibkn1BgwG7Ai1U",
+      "company": "IndiGo",
+      "from": [
+        "delhi"
+      ],
+      "to": "mumbai",
+      "duration": "3h55m",
+      "price": 2345,
+      "date": "2021-11-11",
+      "fromTime": "12",
+      "toTime": "23:55"
+    },
+    {
+      "id": 2,
+      "img": "https://play-lh.googleusercontent.com/OhZSLjRDLvFLqtDp9bIgcvAweZIg5V5uIMI_7kOaS-9nPR043DUfoibkn1BgwG7Ai1U",
+      "company": "IndiGo",
+      "from": "mumbai",
+      "to": "bangalore",
+      "duration": "2h15m",
+      "price": 1245,
+      "date": "2021-11-11",
+      "fromTime": "11",
+      "toTime": "23:55"
+    },
+    {
+      "id": 2,
+      "img": "https://play-lh.googleusercontent.com/OhZSLjRDLvFLqtDp9bIgcvAweZIg5V5uIMI_7kOaS-9nPR043DUfoibkn1BgwG7Ai1U",
+      "company": "IndiGo",
+      "from": "mumbai",
+      "to": "bangalore",
+      "duration": "4h55m",
+      "price": 2345,
+      "date": "2021-11-11",
+      "fromTime": "19",
+      "toTime": "23:55"
+    },
+    {
+      "id": 2,
+      "img": "https://play-lh.googleusercontent.com/OhZSLjRDLvFLqtDp9bIgcvAweZIg5V5uIMI_7kOaS-9nPR043DUfoibkn1BgwG7Ai1U",
+      "company": "IndiGo",
+      "from": "delhi",
+      "to": "delhi",
+      "duration": "3h55m",
+      "price": 2345,
+      "date": "2021-11-11",
+      "fromTime": "19:00",
+      "toTime": "23:55"
+    }
+  ],
+  "bookmarks": {
+    "id": 2,
+    "img": "https://play-lh.googleusercontent.com/OhZSLjRDLvFLqtDp9bIgcvAweZIg5V5uIMI_7kOaS-9nPR043DUfoibkn1BgwG7Ai1U",
+    "company": "IndiGo",
+    "from": "mumbai",
+    "to": "bangalore",
+    "duration": "2h15m",
+    "price": 1245,
+    "date": "2021-11-11",
+    "fromTime": "11",
+    "toTime": "23:55"
+  },
+  "flightData": {
+    "from": [
+      "Mumbai",
+      "Chhatrapati Shivaji International Airport, Mumbai, India",
+      "2:30PM"
+    ],
+    "to": [
+      "Delhi",
+      "Indira Gandhi International Airport,New Delhi, India",
+      "4:50PM"
+    ],
+    "day": "Wedness",
+    "date": "25-nov-2021",
+    "duration": "2h 15m",
+    "amount": 1245
+  }
+}
