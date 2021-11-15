@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+# Goibibo Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created using create-react-app and Json server
 
-## Available Scripts
+## How to run app
 
-In the project directory, you can run:
+Clone the app
 
-### `npm start`
+`git clone <url>`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  
+  
 
-### `npm test`
+### How to run backend
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+`npm i json-server`
+ `json-server --watch db.json --port 3001`
+ 
+ ### How to run frontend
 
-### `npm run build`
+`cd goibibo`
+`npm install`
+`npm start`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Live Demo:
+`https://github.com/ShashankSKB/goibibo_clone`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Go ibibo clone:
 
-### `npm run eject`
+`  Goibibo is India’s leading online travel booking brand providing a range of choices for hotels, flights, trains, bus and cars for travelers.
+`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### TEAM MEMBERS:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+`Shashank Borkar`
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+`Mukul Kumar`
 
-## Learn More
+`Shailaja Tripathi`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+`Sharoof Khan`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Pages
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+ `signup `
 
-### Analyzing the Bundle Size
+ `flight home page`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+`payment page`
 
-### Making a Progressive Web App
+`flight detail page`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Tech stack used
 
-### Advanced Configuration
+`React`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+`CSS`
 
-### Deployment
+`Javascript`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+### Screenshots
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Landing page
+
+![Screenshot (1073)](https://user-images.githubusercontent.com/83760178/141784212-e3bcb879-eb36-4bec-ae73-c58233451a2e.png)
+![Screenshot (1074)](https://user-images.githubusercontent.com/83760178/141784310-c8edf892-8aab-4a92-bc3e-492c18d47986.png)
+
+### Flights details page
+![Screenshot (1068)](https://user-images.githubusercontent.com/83760178/141784336-8562b6ee-af63-4707-a331-af81a3b066d9.png)
+
+
+### Payment page
+![Screenshot (1069)](https://user-images.githubusercontent.com/83760178/141784352-89cd9c4a-e921-4e8a-b255-f8697bd74579.png)
+![Screenshot (1070)](https://user-images.githubusercontent.com/83760178/141784384-dfdbaadc-22cc-444c-8599-62806263cf3b.png)
+![Screenshot (1071)](https://user-images.githubusercontent.com/83760178/141784402-769ca1d1-6b83-4280-a55d-6957e76ad7f7.png)
+
+### Signup page
+![Screenshot (1072)](https://user-images.githubusercontent.com/83760178/141784413-cb955d8d-e372-47c6-a30e-82a94632e0b5.png)
+
