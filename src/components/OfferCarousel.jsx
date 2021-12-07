@@ -40,11 +40,11 @@ const Offer = () => {
             <Item  logo = {logo5} desc = "Use Our Exclusive PRICE LOCK Feature"   valid = "Valid till : Open" arrow = ">"/>
             <Item  logo = {logo6} desc = "Use Code: GISUPER & Book Now!"   valid = "Valid till:Limited Period Offer" arrow = ">"/>
             <Item  logo = {logo7}  desc = "Upto Rs.5000 Instant Discount on Flights"  valid = "Valid till:30th Nov'21" arrow = ">"/>
-            <Item  logo = {logo8}  desc = "Grab Up To Rs. 1,200 OFF on Domestic Flights Bookings"  valid = "Valid till: Every Wednesday" arrow = ">"/>
+            <Item  logo = {logo8}  desc = "Grab Up To Rs 1, 200 OFF on Domestic Flights Bookings"  valid = "Valid till: Every Wednesday" arrow = ">"/>
             <Item  logo = {logo9} desc = "Flat 8% Off on Int'l Flight Bookings"   valid = "Valid till: Every Wednesday" arrow = ">"/>
             <Item  logo = {logo10} desc = "Flat INR 600 OFF on discounted prices"   valid = "Valid till : Open" arrow = ">"/>
             <Item  logo = {logo11}  desc = "Flat INR 600 OFF on discounted prices"  valid = "Valid till:31st Mar'22" arrow = ">"/>
-            <Item  logo = {logo12}  desc = "Up To Rs. 5000 OFF Flights from Srinagar to Sharjah"  valid = "Valid till:30th Nov'21" arrow = ">"/>
+            <Item  logo = {logo12}  desc = "Up To Rs 5000 OFF Flights from Srinagar to Sharjah"  valid = "Valid till:30th Nov'21" arrow = ">"/>
 
         </Carousel>
       </div>
