@@ -1,4 +1,4 @@
-# PolicyBazaar Clone
+# Goibibo Clone
 
 This project was created using create-react-app and Json server
 
